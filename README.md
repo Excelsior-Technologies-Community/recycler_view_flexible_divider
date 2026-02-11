@@ -13,14 +13,14 @@ It helps developers avoid repetitive divider code and gives full control over sp
 🔹 Custom divider thickness
 
 🔹 Top & bottom spacing
-- Start & end indent (like WhatsApp chat)
-- First item divider
-- Last item divider
-- Builder based (Lazy rendering)
-- Works like RecyclerView ItemDecoration
-- Clean Material UI
-- Supports large lists efficiently
-- No performance impact
+🔹 Start & end indent (like WhatsApp chat)
+🔹 First item divider
+🔹 Last item divider
+🔹 Builder based (Lazy rendering)
+🔹 Works like RecyclerView ItemDecoration
+🔹 Clean Material UI
+🔹 Supports large lists efficiently
+🔹 No performance impact
 
 -------------------------------------
 

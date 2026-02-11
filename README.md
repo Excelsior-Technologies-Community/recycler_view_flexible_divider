@@ -10,16 +10,16 @@ It helps developers avoid repetitive divider code and gives full control over sp
 
 ## ✨ Feature Preview
 
-🔹 Custom divider thickness
-🔹 Top & bottom spacing
-🔹 Start & end indent (like WhatsApp chat)
-🔹 First item divider
-🔹 Last item divider
-🔹 Builder based (Lazy rendering)
-🔹 Works like RecyclerView ItemDecoration
-🔹 Clean Material UI
-🔹 Supports large lists efficiently
-🔹 No performance impact
+-🔹 Custom divider thickness
+-🔹 Top & bottom spacing
+-🔹 Start & end indent (like WhatsApp chat)
+-🔹 First item divider
+-🔹 Last item divider
+-🔹 Builder based (Lazy rendering)
+-🔹 Works like RecyclerView ItemDecoration
+-🔹 Clean Material UI
+-🔹 Supports large lists efficiently
+-🔹 No performance impact
 
 -------------------------------------
 
@@ -39,7 +39,7 @@ Add dependency in your pubspec.yaml:
 dependencies:
   recycler_view_flexible_divider:
     git:
-      url: https://github.com/your_username/recycler_view_flexible_divider.git
+      url: https://github.com/Excelsior-Technologies-Community/recycler_view_flexible_divider/edit/stage
 
 ```
 then run:

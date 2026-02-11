@@ -10,8 +10,8 @@ It helps developers avoid repetitive divider code and gives full control over sp
 
 ## ✨ Feature Preview
 
--🔹 Custom divider thickness
-- Top & bottom spacing
+🔹 Custom divider thickness
+🔹 Top & bottom spacing
 - Start & end indent (like WhatsApp chat)
 - First item divider
 - Last item divider
